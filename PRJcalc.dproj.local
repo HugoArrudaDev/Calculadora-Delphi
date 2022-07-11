@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/06/13 21:39:55.000.249,=C:\Users\hugoc\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/06/14 07:25:43.000.122,C:\Users\hugoc\Documents\Embarcadero\Studio\Projects\Unit1.dfm=E:\Calculadora\ProgCalc.dfm</Transaction>
+    <Transaction>2022/06/14 07:25:43.000.122,C:\Users\hugoc\Documents\Embarcadero\Studio\Projects\Unit1.pas=E:\Calculadora\ProgCalc.pas</Transaction>
+    <Transaction>2022/06/14 07:25:52.000.641,C:\Users\hugoc\Documents\Embarcadero\Studio\Projects\Project1.dproj=E:\Calculadora\PRJcalc.dproj</Transaction>
+    <Transaction>2022/06/14 08:24:37.000.467,=E:\Calculadora\Unit1.pas</Transaction>
+    <Transaction>2022/06/14 08:25:02.000.741,E:\Calculadora\Sobre.pas=E:\Calculadora\Unit1.pas</Transaction>
+    <Transaction>2022/06/14 08:25:02.000.741,E:\Calculadora\Sobre.dfm=E:\Calculadora\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
